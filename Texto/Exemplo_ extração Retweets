@@ -1,0 +1,1442 @@
+[{
+	"created_at": "Tue Jan 19 11:19:07 +0000 2016",
+	"id": 689406731206586368,
+	"id_str": "689406731206586368",
+	"text": "RT @SANDROAAMIRANDA: Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lame\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 669,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84827,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Mon Jan 18 23:45:25 +0000 2016",
+		"id": 689232153985552384,
+		"id_str": "689232153985552384",
+		"text": "Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lament\u00e1vel...@nad_pimentel",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"name": "sandro de miranda",
+			"screen_name": "SANDROAAMIRANDA",
+			"location": "Pelotas-RS",
+			"description": "Advogado, mestre em ci\u00eanciais sociais, ambientalista e defensor dos direitos humanos",
+			"url": "http:\/\/t.co\/EtgpSD8rYH",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/EtgpSD8rYH",
+						"expanded_url": "http:\/\/sustentabilidadeedemocracia.wordpress.com\/",
+						"display_url": "\u2026entabilidadeedemocracia.wordpress.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448,
+			"friends_count": 282,
+			"listed_count": 8,
+			"created_at": "Sat Sep 06 16:22:38 +0000 2014",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10501,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2794235982\/1451147866",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "51bf596b82275cad",
+			"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/51bf596b82275cad.json",
+			"place_type": "city",
+			"name": "Pelotas",
+			"full_name": "Pelotas, Rio Grande do Sul",
+			"country_code": "BR",
+			"country": "Brasil",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-52.6123335, -31.800911],
+						[-52.0558019, -31.800911],
+						[-52.0558019, -31.3218666],
+						[-52.6123335, -31.3218666]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"entities": {
+			"hashtags": [{
+				"text": "GloboGolpista",
+				"indices": [27, 41]
+			}],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "nad_pimentel",
+				"name": "Natasha Pimentel",
+				"id": 902789738,
+				"id_str": "902789738",
+				"indices": [127, 140]
+			}],
+			"urls": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 7,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [{
+			"text": "GloboGolpista",
+			"indices": [48, 62]
+		}],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "SANDROAAMIRANDA",
+			"name": "sandro de miranda",
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"indices": [3, 19]
+		}, {
+			"screen_name": "nad_pimentel",
+			"name": "Natasha Pimentel",
+			"id": 902789738,
+			"id_str": "902789738",
+			"indices": [139, 140]
+		}],
+		"urls": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 11:00:21 +0000 2016",
+	"id": 689402008478978048,
+	"id_str": "689402008478978048",
+	"text": "RT @SANDROAAMIRANDA: Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lame\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 66405870,
+		"id_str": "66405870",
+		"name": "M\u00e1rcia Ferreira",
+		"screen_name": "capitu46",
+		"location": "Bras\u00edlia - Brazil",
+		"description": "Sou professora; adoro minha profiss\u00e3o.",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 500,
+		"friends_count": 380,
+		"listed_count": 8,
+		"created_at": "Mon Aug 17 16:52:00 +0000 2009",
+		"favourites_count": 203,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": true,
+		"verified": false,
+		"statuses_count": 31848,
+		"lang": "en",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/552871126763077632\/Niik8zzT_normal.jpeg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/552871126763077632\/Niik8zzT_normal.jpeg",
+		"profile_link_color": "0084B4",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": true,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Mon Jan 18 23:45:25 +0000 2016",
+		"id": 689232153985552384,
+		"id_str": "689232153985552384",
+		"text": "Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lament\u00e1vel...@nad_pimentel",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"name": "sandro de miranda",
+			"screen_name": "SANDROAAMIRANDA",
+			"location": "Pelotas-RS",
+			"description": "Advogado, mestre em ci\u00eanciais sociais, ambientalista e defensor dos direitos humanos",
+			"url": "http:\/\/t.co\/EtgpSD8rYH",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/EtgpSD8rYH",
+						"expanded_url": "http:\/\/sustentabilidadeedemocracia.wordpress.com\/",
+						"display_url": "\u2026entabilidadeedemocracia.wordpress.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448,
+			"friends_count": 282,
+			"listed_count": 8,
+			"created_at": "Sat Sep 06 16:22:38 +0000 2014",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10501,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2794235982\/1451147866",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "51bf596b82275cad",
+			"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/51bf596b82275cad.json",
+			"place_type": "city",
+			"name": "Pelotas",
+			"full_name": "Pelotas, Rio Grande do Sul",
+			"country_code": "BR",
+			"country": "Brasil",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-52.6123335, -31.800911],
+						[-52.0558019, -31.800911],
+						[-52.0558019, -31.3218666],
+						[-52.6123335, -31.3218666]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"entities": {
+			"hashtags": [{
+				"text": "GloboGolpista",
+				"indices": [27, 41]
+			}],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "nad_pimentel",
+				"name": "Natasha Pimentel",
+				"id": 902789738,
+				"id_str": "902789738",
+				"indices": [127, 140]
+			}],
+			"urls": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 7,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [{
+			"text": "GloboGolpista",
+			"indices": [48, 62]
+		}],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "SANDROAAMIRANDA",
+			"name": "sandro de miranda",
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"indices": [3, 19]
+		}, {
+			"screen_name": "nad_pimentel",
+			"name": "Natasha Pimentel",
+			"id": 902789738,
+			"id_str": "902789738",
+			"indices": [139, 140]
+		}],
+		"urls": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 10:52:12 +0000 2016",
+	"id": 689399954616410113,
+	"id_str": "689399954616410113",
+	"text": "RT @SANDROAAMIRANDA: Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lame\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 215006820,
+		"id_str": "215006820",
+		"name": "Helderceara",
+		"screen_name": "helderceara",
+		"location": "",
+		"description": "Eterno aprendiz da ci\u00eancia e tecnologia, voz\u00e3o de terceira gera\u00e7\u00e3o, desconfio e n\u00e3o dou ibope para informa\u00e7\u00e3o divulgada pelos oligop\u00f3lios de m\u00eddia.",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 703,
+		"friends_count": 1005,
+		"listed_count": 6,
+		"created_at": "Fri Nov 12 19:39:53 +0000 2010",
+		"favourites_count": 3125,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": true,
+		"verified": false,
+		"statuses_count": 15672,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/544271275313483776\/ZRG3_B1a_normal.jpeg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/544271275313483776\/ZRG3_B1a_normal.jpeg",
+		"profile_link_color": "0084B4",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Mon Jan 18 23:45:25 +0000 2016",
+		"id": 689232153985552384,
+		"id_str": "689232153985552384",
+		"text": "Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lament\u00e1vel...@nad_pimentel",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"name": "sandro de miranda",
+			"screen_name": "SANDROAAMIRANDA",
+			"location": "Pelotas-RS",
+			"description": "Advogado, mestre em ci\u00eanciais sociais, ambientalista e defensor dos direitos humanos",
+			"url": "http:\/\/t.co\/EtgpSD8rYH",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/EtgpSD8rYH",
+						"expanded_url": "http:\/\/sustentabilidadeedemocracia.wordpress.com\/",
+						"display_url": "\u2026entabilidadeedemocracia.wordpress.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448,
+			"friends_count": 282,
+			"listed_count": 8,
+			"created_at": "Sat Sep 06 16:22:38 +0000 2014",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10501,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2794235982\/1451147866",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "51bf596b82275cad",
+			"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/51bf596b82275cad.json",
+			"place_type": "city",
+			"name": "Pelotas",
+			"full_name": "Pelotas, Rio Grande do Sul",
+			"country_code": "BR",
+			"country": "Brasil",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-52.6123335, -31.800911],
+						[-52.0558019, -31.800911],
+						[-52.0558019, -31.3218666],
+						[-52.6123335, -31.3218666]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"entities": {
+			"hashtags": [{
+				"text": "GloboGolpista",
+				"indices": [27, 41]
+			}],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "nad_pimentel",
+				"name": "Natasha Pimentel",
+				"id": 902789738,
+				"id_str": "902789738",
+				"indices": [127, 140]
+			}],
+			"urls": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 7,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [{
+			"text": "GloboGolpista",
+			"indices": [48, 62]
+		}],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "SANDROAAMIRANDA",
+			"name": "sandro de miranda",
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"indices": [3, 19]
+		}, {
+			"screen_name": "nad_pimentel",
+			"name": "Natasha Pimentel",
+			"id": 902789738,
+			"id_str": "902789738",
+			"indices": [139, 140]
+		}],
+		"urls": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 10:51:12 +0000 2016",
+	"id": 689399702169616384,
+	"id_str": "689399702169616384",
+	"text": "RT @SANDROAAMIRANDA: Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lame\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 760557686,
+		"id_str": "760557686",
+		"name": "Laura Vieira Dias",
+		"screen_name": "LauraVieiraDias",
+		"location": "BH(MG)",
+		"description": "A cultura \u00e9 uma coisa apavorante para os ditadores. Um povo que l\u00ea nunca ser\u00e1 um povo escravizado- Antonio Lobo Antunes",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 3534,
+		"friends_count": 3646,
+		"listed_count": 32,
+		"created_at": "Thu Aug 16 01:37:56 +0000 2012",
+		"favourites_count": 12433,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 53767,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "DD2E44",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+		"profile_background_tile": true,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000464409124\/2bb3f666b94082e0e967602455191961_normal.jpeg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000464409124\/2bb3f666b94082e0e967602455191961_normal.jpeg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/760557686\/1377294751",
+		"profile_link_color": "DD2E44",
+		"profile_sidebar_border_color": "000000",
+		"profile_sidebar_fill_color": "95E8EC",
+		"profile_text_color": "3C3940",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Mon Jan 18 23:45:25 +0000 2016",
+		"id": 689232153985552384,
+		"id_str": "689232153985552384",
+		"text": "Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lament\u00e1vel...@nad_pimentel",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"name": "sandro de miranda",
+			"screen_name": "SANDROAAMIRANDA",
+			"location": "Pelotas-RS",
+			"description": "Advogado, mestre em ci\u00eanciais sociais, ambientalista e defensor dos direitos humanos",
+			"url": "http:\/\/t.co\/EtgpSD8rYH",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/EtgpSD8rYH",
+						"expanded_url": "http:\/\/sustentabilidadeedemocracia.wordpress.com\/",
+						"display_url": "\u2026entabilidadeedemocracia.wordpress.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448,
+			"friends_count": 282,
+			"listed_count": 8,
+			"created_at": "Sat Sep 06 16:22:38 +0000 2014",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10501,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2794235982\/1451147866",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "51bf596b82275cad",
+			"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/51bf596b82275cad.json",
+			"place_type": "city",
+			"name": "Pelotas",
+			"full_name": "Pelotas, Rio Grande do Sul",
+			"country_code": "BR",
+			"country": "Brasil",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-52.6123335, -31.800911],
+						[-52.0558019, -31.800911],
+						[-52.0558019, -31.3218666],
+						[-52.6123335, -31.3218666]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"entities": {
+			"hashtags": [{
+				"text": "GloboGolpista",
+				"indices": [27, 41]
+			}],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "nad_pimentel",
+				"name": "Natasha Pimentel",
+				"id": 902789738,
+				"id_str": "902789738",
+				"indices": [127, 140]
+			}],
+			"urls": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 7,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [{
+			"text": "GloboGolpista",
+			"indices": [48, 62]
+		}],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "SANDROAAMIRANDA",
+			"name": "sandro de miranda",
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"indices": [3, 19]
+		}, {
+			"screen_name": "nad_pimentel",
+			"name": "Natasha Pimentel",
+			"id": 902789738,
+			"id_str": "902789738",
+			"indices": [139, 140]
+		}],
+		"urls": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 10:49:33 +0000 2016",
+	"id": 689399290041524224,
+	"id_str": "689399290041524224",
+	"text": "RT @SANDROAAMIRANDA: Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lame\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 381138769,
+		"id_str": "381138769",
+		"name": "JoaoG",
+		"screen_name": "JGZZZO",
+		"location": "SC",
+		"description": "",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 1317,
+		"friends_count": 2128,
+		"listed_count": 25,
+		"created_at": "Tue Sep 27 20:18:17 +0000 2011",
+		"favourites_count": 1608,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 107670,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/552909751060004865\/esTWpo6d_normal.jpeg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/552909751060004865\/esTWpo6d_normal.jpeg",
+		"profile_link_color": "0084B4",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Mon Jan 18 23:45:25 +0000 2016",
+		"id": 689232153985552384,
+		"id_str": "689232153985552384",
+		"text": "Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lament\u00e1vel...@nad_pimentel",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"name": "sandro de miranda",
+			"screen_name": "SANDROAAMIRANDA",
+			"location": "Pelotas-RS",
+			"description": "Advogado, mestre em ci\u00eanciais sociais, ambientalista e defensor dos direitos humanos",
+			"url": "http:\/\/t.co\/EtgpSD8rYH",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/EtgpSD8rYH",
+						"expanded_url": "http:\/\/sustentabilidadeedemocracia.wordpress.com\/",
+						"display_url": "\u2026entabilidadeedemocracia.wordpress.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448,
+			"friends_count": 282,
+			"listed_count": 8,
+			"created_at": "Sat Sep 06 16:22:38 +0000 2014",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10501,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2794235982\/1451147866",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "51bf596b82275cad",
+			"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/51bf596b82275cad.json",
+			"place_type": "city",
+			"name": "Pelotas",
+			"full_name": "Pelotas, Rio Grande do Sul",
+			"country_code": "BR",
+			"country": "Brasil",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-52.6123335, -31.800911],
+						[-52.0558019, -31.800911],
+						[-52.0558019, -31.3218666],
+						[-52.6123335, -31.3218666]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"entities": {
+			"hashtags": [{
+				"text": "GloboGolpista",
+				"indices": [27, 41]
+			}],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "nad_pimentel",
+				"name": "Natasha Pimentel",
+				"id": 902789738,
+				"id_str": "902789738",
+				"indices": [127, 140]
+			}],
+			"urls": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 7,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [{
+			"text": "GloboGolpista",
+			"indices": [48, 62]
+		}],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "SANDROAAMIRANDA",
+			"name": "sandro de miranda",
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"indices": [3, 19]
+		}, {
+			"screen_name": "nad_pimentel",
+			"name": "Natasha Pimentel",
+			"id": 902789738,
+			"id_str": "902789738",
+			"indices": [139, 140]
+		}],
+		"urls": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 10:48:48 +0000 2016",
+	"id": 689399098164641792,
+	"id_str": "689399098164641792",
+	"text": "RT @SANDROAAMIRANDA: Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lame\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 478041041,
+		"id_str": "478041041",
+		"name": "\u262dSandro Cavalheiro\u262d",
+		"screen_name": "sscavalheiro",
+		"location": "Rio de Janeiro, Brasil",
+		"description": "#RosaLuxemburgo                          \n\u262dsocialmente iguais\u262d\n\u262dhumanamente diferentes\u262d\n\u262dtotalmente livres\u262d",
+		"url": null,
+		"entities": {
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 759,
+		"friends_count": 750,
+		"listed_count": 8,
+		"created_at": "Sun Jan 29 20:58:45 +0000 2012",
+		"favourites_count": 7878,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": true,
+		"verified": false,
+		"statuses_count": 14760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/686976566191063041\/WglaYmhz_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/686976566191063041\/WglaYmhz_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/478041041\/1406218149",
+		"profile_link_color": "0084B4",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Mon Jan 18 23:45:25 +0000 2016",
+		"id": 689232153985552384,
+		"id_str": "689232153985552384",
+		"text": "Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lament\u00e1vel...@nad_pimentel",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"name": "sandro de miranda",
+			"screen_name": "SANDROAAMIRANDA",
+			"location": "Pelotas-RS",
+			"description": "Advogado, mestre em ci\u00eanciais sociais, ambientalista e defensor dos direitos humanos",
+			"url": "http:\/\/t.co\/EtgpSD8rYH",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/EtgpSD8rYH",
+						"expanded_url": "http:\/\/sustentabilidadeedemocracia.wordpress.com\/",
+						"display_url": "\u2026entabilidadeedemocracia.wordpress.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448,
+			"friends_count": 282,
+			"listed_count": 8,
+			"created_at": "Sat Sep 06 16:22:38 +0000 2014",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10501,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2794235982\/1451147866",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "51bf596b82275cad",
+			"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/51bf596b82275cad.json",
+			"place_type": "city",
+			"name": "Pelotas",
+			"full_name": "Pelotas, Rio Grande do Sul",
+			"country_code": "BR",
+			"country": "Brasil",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-52.6123335, -31.800911],
+						[-52.0558019, -31.800911],
+						[-52.0558019, -31.3218666],
+						[-52.6123335, -31.3218666]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"entities": {
+			"hashtags": [{
+				"text": "GloboGolpista",
+				"indices": [27, 41]
+			}],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "nad_pimentel",
+				"name": "Natasha Pimentel",
+				"id": 902789738,
+				"id_str": "902789738",
+				"indices": [127, 140]
+			}],
+			"urls": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 7,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [{
+			"text": "GloboGolpista",
+			"indices": [48, 62]
+		}],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "SANDROAAMIRANDA",
+			"name": "sandro de miranda",
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"indices": [3, 19]
+		}, {
+			"screen_name": "nad_pimentel",
+			"name": "Natasha Pimentel",
+			"id": 902789738,
+			"id_str": "902789738",
+			"indices": [139, 140]
+		}],
+		"urls": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 10:41:14 +0000 2016",
+	"id": 689397195087286281,
+	"id_str": "689397195087286281",
+	"text": "RT @SANDROAAMIRANDA: Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lame\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 902789738,
+		"id_str": "902789738",
+		"name": "Natasha Pimentel",
+		"screen_name": "nad_pimentel",
+		"location": "brasil",
+		"description": "Uma mulher angustiada com os rumos que a humanidade est\u00e1 tomando.",
+		"url": "https:\/\/t.co\/ZE5uFUlwII",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "https:\/\/t.co\/ZE5uFUlwII",
+					"expanded_url": "http:\/\/natasha6572.blogspot.com.br\/",
+					"display_url": "natasha6572.blogspot.com.br",
+					"indices": [0, 23]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 2609,
+		"friends_count": 2088,
+		"listed_count": 11,
+		"created_at": "Wed Oct 24 23:09:18 +0000 2012",
+		"favourites_count": 3983,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 15443,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "ABB8C2",
+		"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/623990163660754944\/kfaS5ob3.jpg",
+		"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/623990163660754944\/kfaS5ob3.jpg",
+		"profile_background_tile": true,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/681410902164389888\/PuRNaqxp_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/681410902164389888\/PuRNaqxp_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/902789738\/1451295929",
+		"profile_link_color": "3B94D9",
+		"profile_sidebar_border_color": "000000",
+		"profile_sidebar_fill_color": "000000",
+		"profile_text_color": "000000",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Mon Jan 18 23:45:25 +0000 2016",
+		"id": 689232153985552384,
+		"id_str": "689232153985552384",
+		"text": "Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lament\u00e1vel...@nad_pimentel",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"name": "sandro de miranda",
+			"screen_name": "SANDROAAMIRANDA",
+			"location": "Pelotas-RS",
+			"description": "Advogado, mestre em ci\u00eanciais sociais, ambientalista e defensor dos direitos humanos",
+			"url": "http:\/\/t.co\/EtgpSD8rYH",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/EtgpSD8rYH",
+						"expanded_url": "http:\/\/sustentabilidadeedemocracia.wordpress.com\/",
+						"display_url": "\u2026entabilidadeedemocracia.wordpress.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448,
+			"friends_count": 282,
+			"listed_count": 8,
+			"created_at": "Sat Sep 06 16:22:38 +0000 2014",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10501,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2794235982\/1451147866",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "51bf596b82275cad",
+			"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/51bf596b82275cad.json",
+			"place_type": "city",
+			"name": "Pelotas",
+			"full_name": "Pelotas, Rio Grande do Sul",
+			"country_code": "BR",
+			"country": "Brasil",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-52.6123335, -31.800911],
+						[-52.0558019, -31.800911],
+						[-52.0558019, -31.3218666],
+						[-52.6123335, -31.3218666]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"entities": {
+			"hashtags": [{
+				"text": "GloboGolpista",
+				"indices": [27, 41]
+			}],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "nad_pimentel",
+				"name": "Natasha Pimentel",
+				"id": 902789738,
+				"id_str": "902789738",
+				"indices": [127, 140]
+			}],
+			"urls": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 7,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [{
+			"text": "GloboGolpista",
+			"indices": [48, 62]
+		}],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "SANDROAAMIRANDA",
+			"name": "sandro de miranda",
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"indices": [3, 19]
+		}, {
+			"screen_name": "nad_pimentel",
+			"name": "Natasha Pimentel",
+			"id": 902789738,
+			"id_str": "902789738",
+			"indices": [139, 140]
+		}],
+		"urls": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"lang": "pt"
+}]

@@ -1,0 +1,12 @@
+Armazenamento dos dados
+	- Base Local
+	- Estrutura
+		Login
+			Nome do usuario Twitter
+			Id do twitter - Chave primaria
+		Seguidores
+			Armazenado em uma tabela 
+				Campo Id Usuario: o id do usuario
+				Campo Id Usuario Seguidor: o id do usuario SEGUIDOR
+			
+			

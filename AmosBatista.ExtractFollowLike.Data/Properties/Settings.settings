@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AmosBatista.ExtractFollowLike.Data.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DataBaseConecctionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\CompactDataBase\TwitterExtract_followers.db.sdf;Password=1234;Persist Security Info=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

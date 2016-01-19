@@ -1,0 +1,4 @@
+SELECT     TwitterUserId_1 as 'Source', TwitterUserId_2 as 'Target', 'Undirected' as 'Type', '' as 'Id','' as 'Label', '' as 'Interval', 
+COUNT(*) AS 'Weight'
+FROM         TWITTERS_RT
+GROUP BY TwitterUserId_1 as 'Source', TwitterUserId_2 as 'Target', 'Undirected' as 'Type', '' as 'Id','' as 'Label', '' as 'Interval'

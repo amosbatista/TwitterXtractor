@@ -1,0 +1,2076 @@
+[{
+	"created_at": "Tue Jan 19 11:19:07 +0000 2016",
+	"id": 689406731206586368,
+	"id_str": "689406731206586368",
+	"text": "RT @SANDROAAMIRANDA: Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lame\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 670,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Mon Jan 18 23:45:25 +0000 2016",
+		"id": 689232153985552384,
+		"id_str": "689232153985552384",
+		"text": "Novidade do dia, segundo a #GloboGolpista, a respons\u00e1vel pelo crime ambiental de Mariana foi, acreditem, a Chuva! Lament\u00e1vel...@nad_pimentel",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"name": "sandro de miranda",
+			"screen_name": "SANDROAAMIRANDA",
+			"location": "Pelotas-RS",
+			"description": "Advogado, mestre em ci\u00eanciais sociais, ambientalista e defensor dos direitos humanos",
+			"url": "http:\/\/t.co\/EtgpSD8rYH",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/EtgpSD8rYH",
+						"expanded_url": "http:\/\/sustentabilidadeedemocracia.wordpress.com\/",
+						"display_url": "\u2026entabilidadeedemocracia.wordpress.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449,
+			"friends_count": 282,
+			"listed_count": 8,
+			"created_at": "Sat Sep 06 16:22:38 +0000 2014",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10501,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2794235982\/1451147866",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "51bf596b82275cad",
+			"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/51bf596b82275cad.json",
+			"place_type": "city",
+			"name": "Pelotas",
+			"full_name": "Pelotas, Rio Grande do Sul",
+			"country_code": "BR",
+			"country": "Brasil",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-52.6123335, -31.800911],
+						[-52.0558019, -31.800911],
+						[-52.0558019, -31.3218666],
+						[-52.6123335, -31.3218666]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"entities": {
+			"hashtags": [{
+				"text": "GloboGolpista",
+				"indices": [27, 41]
+			}],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "nad_pimentel",
+				"name": "Natasha Pimentel",
+				"id": 902789738,
+				"id_str": "902789738",
+				"indices": [127, 140]
+			}],
+			"urls": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 7,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [{
+			"text": "GloboGolpista",
+			"indices": [48, 62]
+		}],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "SANDROAAMIRANDA",
+			"name": "sandro de miranda",
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"indices": [3, 19]
+		}, {
+			"screen_name": "nad_pimentel",
+			"name": "Natasha Pimentel",
+			"id": 902789738,
+			"id_str": "902789738",
+			"indices": [139, 140]
+		}],
+		"urls": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 11:18:59 +0000 2016",
+	"id": 689406696913940480,
+	"id_str": "689406696913940480",
+	"text": "RT @SANDROAAMIRANDA: Desculpe coxinhas, mas eu defendo a Democracia e tomo Partido! https:\/\/t.co\/YSPtNMWuII @minc_rj @nad_pimentel @palmeri\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 670,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Mon Jan 18 23:55:47 +0000 2016",
+		"id": 689234764109377536,
+		"id_str": "689234764109377536",
+		"text": "Desculpe coxinhas, mas eu defendo a Democracia e tomo Partido! https:\/\/t.co\/YSPtNMWuII @minc_rj @nad_pimentel @palmeriodoria @gera_souza",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"name": "sandro de miranda",
+			"screen_name": "SANDROAAMIRANDA",
+			"location": "Pelotas-RS",
+			"description": "Advogado, mestre em ci\u00eanciais sociais, ambientalista e defensor dos direitos humanos",
+			"url": "http:\/\/t.co\/EtgpSD8rYH",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/EtgpSD8rYH",
+						"expanded_url": "http:\/\/sustentabilidadeedemocracia.wordpress.com\/",
+						"display_url": "\u2026entabilidadeedemocracia.wordpress.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449,
+			"friends_count": 282,
+			"listed_count": 8,
+			"created_at": "Sat Sep 06 16:22:38 +0000 2014",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10501,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/680788628671475712\/pKIij5c2_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2794235982\/1451147866",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "51bf596b82275cad",
+			"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/51bf596b82275cad.json",
+			"place_type": "city",
+			"name": "Pelotas",
+			"full_name": "Pelotas, Rio Grande do Sul",
+			"country_code": "BR",
+			"country": "Brasil",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-52.6123335, -31.800911],
+						[-52.0558019, -31.800911],
+						[-52.0558019, -31.3218666],
+						[-52.6123335, -31.3218666]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 6,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "minc_rj",
+				"name": "Carlos Minc",
+				"id": 131286287,
+				"id_str": "131286287",
+				"indices": [87, 95]
+			}, {
+				"screen_name": "nad_pimentel",
+				"name": "Natasha Pimentel",
+				"id": 902789738,
+				"id_str": "902789738",
+				"indices": [96, 109]
+			}, {
+				"screen_name": "palmeriodoria",
+				"name": "Palm\u00e9rio D\u00f3ria",
+				"id": 163296619,
+				"id_str": "163296619",
+				"indices": [110, 124]
+			}, {
+				"screen_name": "gera_souza",
+				"name": "Geraldo Souza",
+				"id": 177430160,
+				"id_str": "177430160",
+				"indices": [125, 136]
+			}],
+			"urls": [{
+				"url": "https:\/\/t.co\/YSPtNMWuII",
+				"expanded_url": "https:\/\/sustentabilidadeedemocracia.wordpress.com\/2015\/08\/22\/nao-me-venham-com-apartidarismo\/",
+				"display_url": "\u2026entabilidadeedemocracia.wordpress.com\/2015\/08\/22\/nao\u2026",
+				"indices": [63, 86]
+			}]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 11,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "SANDROAAMIRANDA",
+			"name": "sandro de miranda",
+			"id": 2794235982,
+			"id_str": "2794235982",
+			"indices": [3, 19]
+		}, {
+			"screen_name": "minc_rj",
+			"name": "Carlos Minc",
+			"id": 131286287,
+			"id_str": "131286287",
+			"indices": [108, 116]
+		}, {
+			"screen_name": "nad_pimentel",
+			"name": "Natasha Pimentel",
+			"id": 902789738,
+			"id_str": "902789738",
+			"indices": [117, 130]
+		}, {
+			"screen_name": "palmeriodoria",
+			"name": "Palm\u00e9rio D\u00f3ria",
+			"id": 163296619,
+			"id_str": "163296619",
+			"indices": [131, 140]
+		}, {
+			"screen_name": "gera_souza",
+			"name": "Geraldo Souza",
+			"id": 177430160,
+			"id_str": "177430160",
+			"indices": [139, 140]
+		}],
+		"urls": [{
+			"url": "https:\/\/t.co\/YSPtNMWuII",
+			"expanded_url": "https:\/\/sustentabilidadeedemocracia.wordpress.com\/2015\/08\/22\/nao-me-venham-com-apartidarismo\/",
+			"display_url": "\u2026entabilidadeedemocracia.wordpress.com\/2015\/08\/22\/nao\u2026",
+			"indices": [84, 107]
+		}]
+	},
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": true,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 11:18:52 +0000 2016",
+	"id": 689406667985784832,
+	"id_str": "689406667985784832",
+	"text": "RT @brasildamudanca: Bom dia p\/ quem fica feliz com o resultado das pol\u00edticas de inclus\u00e3o de negros nas universidades do #NovoBrasil https:\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 670,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Tue Jan 19 10:41:42 +0000 2016",
+		"id": 689397313098293248,
+		"id_str": "689397313098293248",
+		"text": "Bom dia p\/ quem fica feliz com o resultado das pol\u00edticas de inclus\u00e3o de negros nas universidades do #NovoBrasil https:\/\/t.co\/6bz1WuHPdz",
+		"source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3988096450,
+			"id_str": "3988096450",
+			"name": "O Brasil da Mudan\u00e7a",
+			"screen_name": "brasildamudanca",
+			"location": "Brasil",
+			"description": "A hist\u00f3ria e os resultados das pol\u00edticas p\u00fablicas de distribui\u00e7\u00e3o de renda e inclus\u00e3o social que transformaram o Brasil. https:\/\/t.co\/TIpKaAsniK",
+			"url": "http:\/\/t.co\/Sh8uwrvncp",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/Sh8uwrvncp",
+						"expanded_url": "http:\/\/www.brasildamudanca.com.br\/",
+						"display_url": "brasildamudanca.com.br",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": [{
+						"url": "https:\/\/t.co\/TIpKaAsniK",
+						"expanded_url": "http:\/\/facebook.com\/obrasildamudanca",
+						"display_url": "facebook.com\/obrasildamudan\u2026",
+						"indices": [121, 144]
+					}]
+				}
+			},
+			"protected": false,
+			"followers_count": 1290,
+			"friends_count": 1078,
+			"listed_count": 8,
+			"created_at": "Sun Oct 18 15:57:24 +0000 2015",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 454,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/656933904801230849\/mxPva9cF_normal.png",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/656933904801230849\/mxPva9cF_normal.png",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3988096450\/1445637234",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"entities": {
+			"hashtags": [{
+				"text": "NovoBrasil",
+				"indices": [100, 111]
+			}],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [{
+				"id": 689397276922372096,
+				"id_str": "689397276922372096",
+				"indices": [112, 135],
+				"media_url": "http:\/\/pbs.twimg.com\/media\/CZE7K7gUYAAB_sN.jpg",
+				"media_url_https": "https:\/\/pbs.twimg.com\/media\/CZE7K7gUYAAB_sN.jpg",
+				"url": "https:\/\/t.co\/6bz1WuHPdz",
+				"display_url": "pic.twitter.com\/6bz1WuHPdz",
+				"expanded_url": "http:\/\/twitter.com\/brasildamudanca\/status\/689397313098293248\/photo\/1",
+				"type": "photo",
+				"sizes": {
+					"medium": {
+						"w": 600,
+						"h": 740,
+						"resize": "fit"
+					},
+					"small": {
+						"w": 340,
+						"h": 419,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"large": {
+						"w": 778,
+						"h": 960,
+						"resize": "fit"
+					}
+				}
+			}]
+		},
+		"extended_entities": {
+			"media": [{
+				"id": 689397276922372096,
+				"id_str": "689397276922372096",
+				"indices": [112, 135],
+				"media_url": "http:\/\/pbs.twimg.com\/media\/CZE7K7gUYAAB_sN.jpg",
+				"media_url_https": "https:\/\/pbs.twimg.com\/media\/CZE7K7gUYAAB_sN.jpg",
+				"url": "https:\/\/t.co\/6bz1WuHPdz",
+				"display_url": "pic.twitter.com\/6bz1WuHPdz",
+				"expanded_url": "http:\/\/twitter.com\/brasildamudanca\/status\/689397313098293248\/photo\/1",
+				"type": "photo",
+				"sizes": {
+					"medium": {
+						"w": 600,
+						"h": 740,
+						"resize": "fit"
+					},
+					"small": {
+						"w": 340,
+						"h": 419,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"large": {
+						"w": 778,
+						"h": 960,
+						"resize": "fit"
+					}
+				}
+			}]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 9,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [{
+			"text": "NovoBrasil",
+			"indices": [121, 132]
+		}],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "brasildamudanca",
+			"name": "O Brasil da Mudan\u00e7a",
+			"id": 3988096450,
+			"id_str": "3988096450",
+			"indices": [3, 19]
+		}],
+		"urls": [],
+		"media": [{
+			"id": 689397276922372096,
+			"id_str": "689397276922372096",
+			"indices": [139, 140],
+			"media_url": "http:\/\/pbs.twimg.com\/media\/CZE7K7gUYAAB_sN.jpg",
+			"media_url_https": "https:\/\/pbs.twimg.com\/media\/CZE7K7gUYAAB_sN.jpg",
+			"url": "https:\/\/t.co\/6bz1WuHPdz",
+			"display_url": "pic.twitter.com\/6bz1WuHPdz",
+			"expanded_url": "http:\/\/twitter.com\/brasildamudanca\/status\/689397313098293248\/photo\/1",
+			"type": "photo",
+			"sizes": {
+				"medium": {
+					"w": 600,
+					"h": 740,
+					"resize": "fit"
+				},
+				"small": {
+					"w": 340,
+					"h": 419,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"large": {
+					"w": 778,
+					"h": 960,
+					"resize": "fit"
+				}
+			},
+			"source_status_id": 689397313098293248,
+			"source_status_id_str": "689397313098293248",
+			"source_user_id": 3988096450,
+			"source_user_id_str": "3988096450"
+		}]
+	},
+	"extended_entities": {
+		"media": [{
+			"id": 689397276922372096,
+			"id_str": "689397276922372096",
+			"indices": [139, 140],
+			"media_url": "http:\/\/pbs.twimg.com\/media\/CZE7K7gUYAAB_sN.jpg",
+			"media_url_https": "https:\/\/pbs.twimg.com\/media\/CZE7K7gUYAAB_sN.jpg",
+			"url": "https:\/\/t.co\/6bz1WuHPdz",
+			"display_url": "pic.twitter.com\/6bz1WuHPdz",
+			"expanded_url": "http:\/\/twitter.com\/brasildamudanca\/status\/689397313098293248\/photo\/1",
+			"type": "photo",
+			"sizes": {
+				"medium": {
+					"w": 600,
+					"h": 740,
+					"resize": "fit"
+				},
+				"small": {
+					"w": 340,
+					"h": 419,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"large": {
+					"w": 778,
+					"h": 960,
+					"resize": "fit"
+				}
+			},
+			"source_status_id": 689397313098293248,
+			"source_status_id_str": "689397313098293248",
+			"source_user_id": 3988096450,
+			"source_user_id_str": "3988096450"
+		}]
+	},
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": true,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 11:18:47 +0000 2016",
+	"id": 689406645126868994,
+	"id_str": "689406645126868994",
+	"text": "RT @alexcruce: O pedido de desculpas do \u2018jornalista\u2019 que atacou Chico \u00e9 pior que a ofensa original. Por Kiko... https:\/\/t.co\/D7wUGlWwtN",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 670,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Tue Jan 19 00:10:53 +0000 2016",
+		"id": 689238564970835969,
+		"id_str": "689238564970835969",
+		"text": "O pedido de desculpas do \u2018jornalista\u2019 que atacou Chico \u00e9 pior que a ofensa original. Por Kiko... https:\/\/t.co\/D7wUGlWwtN",
+		"source": "\u003ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003eFacebook\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52482188,
+			"id_str": "52482188",
+			"name": "Alex Zorak",
+			"screen_name": "alexcruce",
+			"location": "S\u00e3o Paulo, Brasil",
+			"description": "Mestre em Ci\u00eancias - Sa\u00fade P\u00fablica, pela Faculdade de Sa\u00fade P\u00fablica da Universidade de S\u00e3o Paulo. Detesta conservadorismo retr\u00f3grado: Res p\u00fablica neles!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1181,
+			"friends_count": 1371,
+			"listed_count": 18,
+			"created_at": "Tue Jun 30 18:53:05 +0000 2009",
+			"favourites_count": 35718,
+			"utc_offset": -7200,
+			"time_zone": "Brasilia",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61029,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "092C2E",
+			"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/21490706\/Alexander_Rodchenko.JPG",
+			"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/21490706\/Alexander_Rodchenko.JPG",
+			"profile_background_tile": true,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/664639491743744000\/qtGjpnOu_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/664639491743744000\/qtGjpnOu_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/52482188\/1405989464",
+			"profile_link_color": "42165C",
+			"profile_sidebar_border_color": "E6CAD8",
+			"profile_sidebar_fill_color": "ABD7D9",
+			"profile_text_color": "1C1718",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 10,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [{
+				"url": "https:\/\/t.co\/D7wUGlWwtN",
+				"expanded_url": "http:\/\/fb.me\/3uRiBoHY2",
+				"display_url": "fb.me\/3uRiBoHY2",
+				"indices": [97, 120]
+			}]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 24,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "alexcruce",
+			"name": "Alex Zorak",
+			"id": 52482188,
+			"id_str": "52482188",
+			"indices": [3, 13]
+		}],
+		"urls": [{
+			"url": "https:\/\/t.co\/D7wUGlWwtN",
+			"expanded_url": "http:\/\/fb.me\/3uRiBoHY2",
+			"display_url": "fb.me\/3uRiBoHY2",
+			"indices": [112, 135]
+		}]
+	},
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": true,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 11:18:07 +0000 2016",
+	"id": 689406476314550272,
+	"id_str": "689406476314550272",
+	"text": "RT @souza_maurilio: Ent\u00e3o Kataguimba \u00e9 COLUNISTA da folha!!!\r\rProblema n\u00e3o... Tem um monte l\u00e1 que s\u00f3 empresta o nome, quem escreve s\u00e3o outr\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 670,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Tue Jan 19 09:22:16 +0000 2016",
+		"id": 689377323452207104,
+		"id_str": "689377323452207104",
+		"text": "Ent\u00e3o Kataguimba \u00e9 COLUNISTA da folha!!!\r\rProblema n\u00e3o... Tem um monte l\u00e1 que s\u00f3 empresta o nome, quem escreve s\u00e3o outros!!!",
+		"source": "\u003ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003eTwitter for Windows Phone\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 471090694,
+			"id_str": "471090694",
+			"name": "Maurilio Souza",
+			"screen_name": "souza_maurilio",
+			"location": "",
+			"description": "Um do povo",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3386,
+			"friends_count": 2894,
+			"listed_count": 15,
+			"created_at": "Sun Jan 22 13:51:44 +0000 2012",
+			"favourites_count": 710,
+			"utc_offset": -7200,
+			"time_zone": "Brasilia",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74855,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/672180673860542464\/kpWNMXXR_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/672180673860542464\/kpWNMXXR_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 13,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 12,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "souza_maurilio",
+			"name": "Maurilio Souza",
+			"id": 471090694,
+			"id_str": "471090694",
+			"indices": [3, 18]
+		}],
+		"urls": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 11:17:11 +0000 2016",
+	"id": 689406242645651456,
+	"id_str": "689406242645651456",
+	"text": "RT @lucianaccc: A a\u00e7\u00e3o judicial faz a pessoa \"repensar\" mesmo \"\u2018Jornalista\u2019 que chamou Chico de \u2018ladr\u00e3o\u2019 e \u2018canalha\u2019 pede desculpa https:\/\/\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 670,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Mon Jan 18 21:36:57 +0000 2016",
+		"id": 689199822541312002,
+		"id_str": "689199822541312002",
+		"text": "A a\u00e7\u00e3o judicial faz a pessoa \"repensar\" mesmo \"\u2018Jornalista\u2019 que chamou Chico de \u2018ladr\u00e3o\u2019 e \u2018canalha\u2019 pede desculpa https:\/\/t.co\/w8dAul8PAZ",
+		"source": "\u003ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eMobile Web\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55262261,
+			"id_str": "55262261",
+			"name": "Luciana Cerqueira",
+			"screen_name": "lucianaccc",
+			"location": "Palmas\/TO\/Brasil",
+			"description": "Lutando para ser uma pessoa melhor. RT n\u00e3o \u00e9 endosso. Perfil estritamente pessoal.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5879,
+			"friends_count": 2532,
+			"listed_count": 56,
+			"created_at": "Thu Jul 09 15:12:12 +0000 2009",
+			"favourites_count": 2251,
+			"utc_offset": -7200,
+			"time_zone": "Brasilia",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 205937,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACB1AA",
+			"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/599312509342887937\/J3jTqWcw.jpg",
+			"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/599312509342887937\/J3jTqWcw.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/683802752342953987\/A2EcVEiA_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/683802752342953987\/A2EcVEiA_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/55262261\/1363992014",
+			"profile_link_color": "3A4FAB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "785418",
+			"profile_text_color": "999B8D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 19,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [{
+				"url": "https:\/\/t.co\/w8dAul8PAZ",
+				"expanded_url": "http:\/\/www.diariodocentrodomundo.com.br\/essencial\/jornalista-que-chamou-chico-de-ladrao-e-canalha-pede-desculpa\/",
+				"display_url": "diariodocentrodomundo.com.br\/essencial\/jorn\u2026",
+				"indices": [115, 138]
+			}]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 33,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "lucianaccc",
+			"name": "Luciana Cerqueira",
+			"id": 55262261,
+			"id_str": "55262261",
+			"indices": [3, 14]
+		}],
+		"urls": [{
+			"url": "https:\/\/t.co\/w8dAul8PAZ",
+			"expanded_url": "http:\/\/www.diariodocentrodomundo.com.br\/essencial\/jornalista-que-chamou-chico-de-ladrao-e-canalha-pede-desculpa\/",
+			"display_url": "diariodocentrodomundo.com.br\/essencial\/jorn\u2026",
+			"indices": [139, 140]
+		}]
+	},
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": true,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 11:16:43 +0000 2016",
+	"id": 689406126350176256,
+	"id_str": "689406126350176256",
+	"text": "RT @oficial_CP: Parece piada, mas n\u00e3o \u00e9. Cunha agora quer ser isentado de investiga\u00e7\u00e3o por ser o terceiro na sucess\u00e3o... https:\/\/t.co\/OIOJQ\u2026",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 670,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Tue Jan 19 10:15:46 +0000 2016",
+		"id": 689390785796571137,
+		"id_str": "689390785796571137",
+		"text": "Parece piada, mas n\u00e3o \u00e9. Cunha agora quer ser isentado de investiga\u00e7\u00e3o por ser o terceiro na sucess\u00e3o... https:\/\/t.co\/OIOJQssh2w",
+		"source": "\u003ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003eFacebook\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2198838560,
+			"id_str": "2198838560",
+			"name": "C\u00f4micas Pol\u00edticas",
+			"screen_name": "oficial_CP",
+			"location": "Brasil",
+			"description": "",
+			"url": "http:\/\/t.co\/uNTF47YEhg",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/uNTF47YEhg",
+						"expanded_url": "http:\/\/fb.com\/comicaspoliticas",
+						"display_url": "fb.com\/comicaspolitic\u2026",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1042,
+			"friends_count": 530,
+			"listed_count": 13,
+			"created_at": "Sun Nov 17 03:35:06 +0000 2013",
+			"favourites_count": 3271,
+			"utc_offset": -7200,
+			"time_zone": "Brasilia",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10273,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "961212",
+			"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000152539912\/-yFPP-BN.png",
+			"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000152539912\/-yFPP-BN.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/413039638383583232\/xxVuK8x5_normal.png",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/413039638383583232\/xxVuK8x5_normal.png",
+			"profile_link_color": "C40E0E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 1,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [{
+				"url": "https:\/\/t.co\/OIOJQssh2w",
+				"expanded_url": "http:\/\/fb.me\/7GmWSYw06",
+				"display_url": "fb.me\/7GmWSYw06",
+				"indices": [105, 128]
+			}]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 8,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "oficial_CP",
+			"name": "C\u00f4micas Pol\u00edticas",
+			"id": 2198838560,
+			"id_str": "2198838560",
+			"indices": [3, 14]
+		}],
+		"urls": [{
+			"url": "https:\/\/t.co\/OIOJQssh2w",
+			"expanded_url": "http:\/\/fb.me\/7GmWSYw06",
+			"display_url": "fb.me\/7GmWSYw06",
+			"indices": [121, 140]
+		}]
+	},
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": true,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 11:16:08 +0000 2016",
+	"id": 689405977402089472,
+	"id_str": "689405977402089472",
+	"text": "RT @silviosaba: Dilma inaugura nesta quinta (21) a pista leste da Via Mangue - a maior obra de mobilidade das... https:\/\/t.co\/LgqsGADgd5",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 670,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Tue Jan 19 09:33:14 +0000 2016",
+		"id": 689380081123270656,
+		"id_str": "689380081123270656",
+		"text": "Dilma inaugura nesta quinta (21) a pista leste da Via Mangue - a maior obra de mobilidade das... https:\/\/t.co\/LgqsGADgd5",
+		"source": "\u003ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003eFacebook\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 329284363,
+			"id_str": "329284363",
+			"name": "Silvio Sab\u00e1",
+			"screen_name": "silviosaba",
+			"location": "Ribeir\u00e3o Preto",
+			"description": "Aos do BEM, meu \u2665; aos do MAL, meu \u250c\u2229\u2510(\u25e3_\u25e2)\u250c\u2229\u2510",
+			"url": "https:\/\/t.co\/4qXhNDqZI3",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "https:\/\/t.co\/4qXhNDqZI3",
+						"expanded_url": "https:\/\/flipboard.com\/@compasnet",
+						"display_url": "flipboard.com\/@compasnet",
+						"indices": [0, 23]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5664,
+			"friends_count": 2953,
+			"listed_count": 45,
+			"created_at": "Mon Jul 04 20:35:42 +0000 2011",
+			"favourites_count": 2635,
+			"utc_offset": -7200,
+			"time_zone": "Mid-Atlantic",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122693,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0B613E",
+			"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/596109950146842625\/XeaJr781.jpg",
+			"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/596109950146842625\/XeaJr781.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/526685773194481664\/bV6fNFAt_normal.jpeg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/526685773194481664\/bV6fNFAt_normal.jpeg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/329284363\/1430945678",
+			"profile_link_color": "FF0030",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "297A09",
+			"profile_text_color": "0C0885",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [{
+				"url": "https:\/\/t.co\/LgqsGADgd5",
+				"expanded_url": "http:\/\/fb.me\/7NfhXBLEQ",
+				"display_url": "fb.me\/7NfhXBLEQ",
+				"indices": [97, 120]
+			}]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 7,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "silviosaba",
+			"name": "Silvio Sab\u00e1",
+			"id": 329284363,
+			"id_str": "329284363",
+			"indices": [3, 14]
+		}],
+		"urls": [{
+			"url": "https:\/\/t.co\/LgqsGADgd5",
+			"expanded_url": "http:\/\/fb.me\/7NfhXBLEQ",
+			"display_url": "fb.me\/7NfhXBLEQ",
+			"indices": [113, 136]
+		}]
+	},
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": true,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 11:15:11 +0000 2016",
+	"id": 689405738196725761,
+	"id_str": "689405738196725761",
+	"text": "RT @brasil247: Wagner Moura: Se nada mudar, matar\u00e3o um El Chapo e surgir\u00e1 outro | Brasil 24\/7 https:\/\/t.co\/iKeCahVyla via @brasil247",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 670,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Tue Jan 19 10:45:48 +0000 2016",
+		"id": 689398345752645632,
+		"id_str": "689398345752645632",
+		"text": "Wagner Moura: Se nada mudar, matar\u00e3o um El Chapo e surgir\u00e1 outro | Brasil 24\/7 https:\/\/t.co\/iKeCahVyla via @brasil247",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248890506,
+			"id_str": "248890506",
+			"name": "Brasil 247",
+			"screen_name": "brasil247",
+			"location": "S\u00e3o Paulo, SP",
+			"description": "Primeiro jornal para tablets e smartphones do Brasil. 24 horas por dia, 7 dias por semana, 100% digital, com participa\u00e7\u00e3o ativa dos leitores.",
+			"url": "http:\/\/t.co\/X6XYUpyeui",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/X6XYUpyeui",
+						"expanded_url": "http:\/\/www.brasil247.com",
+						"display_url": "brasil247.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176465,
+			"friends_count": 29793,
+			"listed_count": 864,
+			"created_at": "Mon Feb 07 23:03:07 +0000 2011",
+			"favourites_count": 32,
+			"utc_offset": -10800,
+			"time_zone": "Santiago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59474,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/217549920\/Twitter_v04.jpg",
+			"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/217549920\/Twitter_v04.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1848930001\/imagem_twitter_247_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1848930001\/imagem_twitter_247_normal.jpg",
+			"profile_link_color": "005FA7",
+			"profile_sidebar_border_color": "EBEBEB",
+			"profile_sidebar_fill_color": "EBEBEB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 9,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "brasil247",
+				"name": "Brasil 247",
+				"id": 248890506,
+				"id_str": "248890506",
+				"indices": [107, 117]
+			}],
+			"urls": [{
+				"url": "https:\/\/t.co\/iKeCahVyla",
+				"expanded_url": "https:\/\/www.brasil247.com\/pt\/247\/cultura\/213799\/Wagner-Moura-Se-nada-mudar-matar%C3%A3o-um-El-Chapo-e-surgir%C3%A1-outro.htm",
+				"display_url": "brasil247.com\/pt\/247\/cultura\u2026",
+				"indices": [79, 102]
+			}]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 10,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "brasil247",
+			"name": "Brasil 247",
+			"id": 248890506,
+			"id_str": "248890506",
+			"indices": [3, 13]
+		}, {
+			"screen_name": "brasil247",
+			"name": "Brasil 247",
+			"id": 248890506,
+			"id_str": "248890506",
+			"indices": [122, 132]
+		}],
+		"urls": [{
+			"url": "https:\/\/t.co\/iKeCahVyla",
+			"expanded_url": "https:\/\/www.brasil247.com\/pt\/247\/cultura\/213799\/Wagner-Moura-Se-nada-mudar-matar%C3%A3o-um-El-Chapo-e-surgir%C3%A1-outro.htm",
+			"display_url": "brasil247.com\/pt\/247\/cultura\u2026",
+			"indices": [94, 117]
+		}]
+	},
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": true,
+	"lang": "pt"
+}, {
+	"created_at": "Tue Jan 19 11:15:08 +0000 2016",
+	"id": 689405725110460416,
+	"id_str": "689405725110460416",
+	"text": "RT @brasil247: Folha: pen\u00faria de SP \u00e9 menos dram\u00e1tica devido ao aumento de impostos | Brasil 24\/7 https:\/\/t.co\/C1LZ3iZign via @brasil247",
+	"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 110248323,
+		"id_str": "110248323",
+		"name": "Marotta",
+		"screen_name": "CartasMarottas",
+		"location": "Salvador, BA, Brasil",
+		"description": "Carioca, jornalista, humanista, um ser pol\u00edtico",
+		"url": "http:\/\/t.co\/GYQ8e1ZECB",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/GYQ8e1ZECB",
+					"expanded_url": "http:\/\/cartasmarottas.zip.net\/",
+					"display_url": "cartasmarottas.zip.net",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 670,
+		"friends_count": 320,
+		"listed_count": 23,
+		"created_at": "Sun Jan 31 22:10:34 +0000 2010",
+		"favourites_count": 602,
+		"utc_offset": -7200,
+		"time_zone": "Brasilia",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 84760,
+		"lang": "pt",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "1A1B1F",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+		"profile_background_tile": false,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/669189793205624834\/GIFQUz0t_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110248323\/1448382253",
+		"profile_link_color": "2FC2EF",
+		"profile_sidebar_border_color": "181A1E",
+		"profile_sidebar_fill_color": "252429",
+		"profile_text_color": "666666",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": false,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Tue Jan 19 10:46:20 +0000 2016",
+		"id": 689398477118308352,
+		"id_str": "689398477118308352",
+		"text": "Folha: pen\u00faria de SP \u00e9 menos dram\u00e1tica devido ao aumento de impostos | Brasil 24\/7 https:\/\/t.co\/C1LZ3iZign via @brasil247",
+		"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248890506,
+			"id_str": "248890506",
+			"name": "Brasil 247",
+			"screen_name": "brasil247",
+			"location": "S\u00e3o Paulo, SP",
+			"description": "Primeiro jornal para tablets e smartphones do Brasil. 24 horas por dia, 7 dias por semana, 100% digital, com participa\u00e7\u00e3o ativa dos leitores.",
+			"url": "http:\/\/t.co\/X6XYUpyeui",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "http:\/\/t.co\/X6XYUpyeui",
+						"expanded_url": "http:\/\/www.brasil247.com",
+						"display_url": "brasil247.com",
+						"indices": [0, 22]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176465,
+			"friends_count": 29793,
+			"listed_count": 864,
+			"created_at": "Mon Feb 07 23:03:07 +0000 2011",
+			"favourites_count": 32,
+			"utc_offset": -10800,
+			"time_zone": "Santiago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59474,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/217549920\/Twitter_v04.jpg",
+			"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/217549920\/Twitter_v04.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1848930001\/imagem_twitter_247_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1848930001\/imagem_twitter_247_normal.jpg",
+			"profile_link_color": "005FA7",
+			"profile_sidebar_border_color": "EBEBEB",
+			"profile_sidebar_fill_color": "EBEBEB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [{
+				"screen_name": "brasil247",
+				"name": "Brasil 247",
+				"id": 248890506,
+				"id_str": "248890506",
+				"indices": [111, 121]
+			}],
+			"urls": [{
+				"url": "https:\/\/t.co\/C1LZ3iZign",
+				"expanded_url": "http:\/\/www.brasil247.com\/pt\/247\/sp247\/213786\/Folha-pen%C3%BAria-de-SP-%C3%A9-menos-dram%C3%A1tica-devido-ao-aumento-de-impostos.htm",
+				"display_url": "brasil247.com\/pt\/247\/sp247\/2\u2026",
+				"indices": [83, 106]
+			}]
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt"
+	},
+	"is_quote_status": false,
+	"retweet_count": 5,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "brasil247",
+			"name": "Brasil 247",
+			"id": 248890506,
+			"id_str": "248890506",
+			"indices": [3, 13]
+		}, {
+			"screen_name": "brasil247",
+			"name": "Brasil 247",
+			"id": 248890506,
+			"id_str": "248890506",
+			"indices": [126, 136]
+		}],
+		"urls": [{
+			"url": "https:\/\/t.co\/C1LZ3iZign",
+			"expanded_url": "http:\/\/www.brasil247.com\/pt\/247\/sp247\/213786\/Folha-pen%C3%BAria-de-SP-%C3%A9-menos-dram%C3%A1tica-devido-ao-aumento-de-impostos.htm",
+			"display_url": "brasil247.com\/pt\/247\/sp247\/2\u2026",
+			"indices": [98, 121]
+		}]
+	},
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": true,
+	"lang": "pt"
+}]
