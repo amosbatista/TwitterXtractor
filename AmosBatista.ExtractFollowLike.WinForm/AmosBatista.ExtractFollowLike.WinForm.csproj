@@ -52,11 +52,23 @@
     <Compile Include="frmExtractRTFromUser.Designer.cs">
       <DependentUpon>frmExtractRTFromUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmProcessUserNetwork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProcessUserNetwork.Designer.cs">
+      <DependentUpon>frmProcessUserNetwork.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmStatusList.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmStatusList.Designer.cs">
       <DependentUpon>frmStatusList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStatusSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStatusSearch.Designer.cs">
+      <DependentUpon>frmStatusSearch.cs</DependentUpon>
     </Compile>
     <Compile Include="frmTwitterExtraction.cs">
       <SubType>Form</SubType>
@@ -69,8 +81,14 @@
     <EmbeddedResource Include="frmExtractRTFromUser.resx">
       <DependentUpon>frmExtractRTFromUser.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmProcessUserNetwork.resx">
+      <DependentUpon>frmProcessUserNetwork.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmStatusList.resx">
       <DependentUpon>frmStatusList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStatusSearch.resx">
+      <DependentUpon>frmStatusSearch.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTwitterExtraction.resx">
       <DependentUpon>frmTwitterExtraction.cs</DependentUpon>

@@ -21,8 +21,8 @@ namespace AmosBatista.ExtractFollowLike.WinForm
 
         private void btnExtract_Click(object sender, EventArgs e)
         {
-            var extractRTs = new ExtractRT_ByFrom_User(txtTwitterUser.Text);
-            extractRTs.ToProcess();
+            //var extractRTs = new ExtractRT_ByFrom_User(txtTwitterUser.Text);
+            //extractRTs.ToProcess();
 
             MessageBox.Show("Process has been finished.");
         }

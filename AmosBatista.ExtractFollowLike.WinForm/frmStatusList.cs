@@ -21,7 +21,7 @@ namespace AmosBatista.ExtractFollowLike.WinForm
 
         private void btnGenerateList_Click(object sender, EventArgs e)
         {
-            var appTwitter = new GetStatusList();
+            /*var appTwitter = new GetStatusList();
             var timeLine = appTwitter.GetAllResponse(txtScreenName.Text);
             txtResult.Text = timeLine;
             /*txtResult.AppendText("There's " + timeLine.Count.ToString() + " posts. Bellow, the content:");
@@ -42,8 +42,8 @@ namespace AmosBatista.ExtractFollowLike.WinForm
 
         private void btnGenerateRT_Click(object sender, EventArgs e)
         {
-            var appTwitter = new GetStatusRetwiiters();
-            txtRTResult.Text = appTwitter.GetStringContent(txtPostId.Text);
+            //var appTwitter = new GetStatusRetwiiters();
+            //txtRTResult.Text = appTwitter.GetStringContent(txtPostId.Text);
         }
     }
 }

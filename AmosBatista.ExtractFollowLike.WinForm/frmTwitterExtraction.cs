@@ -19,7 +19,7 @@ namespace AmosBatista.ExtractFollowLike.WinForm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var myFollowers = new TwitterFollowersProcess();
+            /*var myFollowers = new TwitterFollowersProcess();
             myFollowers.ExtractMyFollowers();
 
             var myFriends = new TwitterFriendsProcess();
@@ -27,9 +27,9 @@ namespace AmosBatista.ExtractFollowLike.WinForm
 
             // Processing all user list
             var userOperation = new TwitterUserInfoProcess();
-            userOperation.SaveUserList(myFollowers.GetUserList());
-            userOperation.SaveUserList(myFriends.GetUserList());
-            MessageBox.Show("End of processment.");
+            //userOperation.SaveUserList(myFollowers.GetUserList());
+            //userOperation.SaveUserList(myFriends.GetUserList());
+            MessageBox.Show("End of processment.");*/
         }
 
         private void button2_Click(object sender, EventArgs e)

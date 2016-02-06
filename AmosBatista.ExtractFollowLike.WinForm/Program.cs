@@ -14,8 +14,8 @@ namespace AmosBatista.ExtractFollowLike.WinForm
 
             System.Windows.Forms.Application.EnableVisualStyles();
             System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(false);
-            System.Windows.Forms.Application.Run(new frmExtractRTFromUser());
-            //System.Windows.Forms.Application.Run(new frmStatusList());
+            System.Windows.Forms.Application.Run(new frmProcessUserNetwork());
+            
         }
     }
 }

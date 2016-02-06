@@ -38,14 +38,21 @@
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
     <Compile Include="Repository\Database\RT_Repository.cs" />
+    <Compile Include="Repository\Database\StatusRepository.cs" />
     <Compile Include="Repository\Database\SQLOperation.cs" />
     <Compile Include="Repository\Database\DatabaseRepository.cs" />
+    <Compile Include="Repository\Database\TwitterUserRepository.cs" />
+    <Compile Include="Repository\Database\UserRelationshipRepository.cs" />
+    <Compile Include="Repository\Database\UserRepository.cs" />
     <Compile Include="Repository\Twitterizer\TwitterRepository.cs" />
-    <Compile Include="Repository\Twitterizer\TwitterRepstr_Followers.cs" />
-    <Compile Include="Repository\Twitterizer\TwitterRepstr_Friends.cs" />
+    <Compile Include="Repository\Twitterizer\TwitterRepository_XAuth.cs" />
+    <Compile Include="Repository\Twitterizer\TwitterRepstr_FollowersID.cs" />
+    <Compile Include="Repository\Twitterizer\TwitterRepstr_FriendsID.cs" />
     <Compile Include="Repository\Twitterizer\TwitterRepstr_Posts.cs" />
+    <Compile Include="Repository\Twitterizer\TwitterRepstr_SearchPosts.cs" />
     <Compile Include="Repository\Twitterizer\TwitterRepstr_User.cs" />
     <Compile Include="Repository\Twitterizer\TwitterRpstr_Retwitts.cs" />
+    <Compile Include="Repository\Twitterizer\TwitterRpstr_UsersLookUp.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="AmosBatista.Utilities">

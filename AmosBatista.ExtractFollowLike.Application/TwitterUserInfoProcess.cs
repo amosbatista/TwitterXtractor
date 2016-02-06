@@ -10,10 +10,10 @@ namespace AmosBatista.ExtractFollowLike.Application
 {
     public class TwitterUserInfoProcess : TwitterProcess
     {
-        public void SaveUserList(UserList userList)
+        public void SaveUserList(UserIdList userList)
         {
             // Saving in the database
-            var dbReps = new DatabaseRepository();
+            /*var dbReps = new DatabaseRepository();
 
             TwitterAPPUser newUser;
             var extrator = new TwitterRepstr_User();
@@ -34,14 +34,14 @@ namespace AmosBatista.ExtractFollowLike.Application
 
                     dbReps.SaveNewUser(newUser);
                 }
-            }
+            }*/
         }
 
         public void UpdateUnrecognizedUsers()
         {
             var dbReps = new DatabaseRepository();
             var userList = dbReps.LoadAllUnrecognizedUsers();
-            var userListStructured = new UserList();
+            var userListStructured = new UserIdList();
 
             foreach (TwitterAPPUser user in userList)
                 userListStructured.ids.Add(Decimal.Parse(user.id_str));

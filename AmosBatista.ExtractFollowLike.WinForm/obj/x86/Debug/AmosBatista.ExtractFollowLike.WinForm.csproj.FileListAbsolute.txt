@@ -29,3 +29,5 @@ E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.Ex
 E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.ExtractFollowLike.WinForm\bin\Debug\TwitterizerFiles\Twitterizer2.Streaming.pdb
 E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.ExtractFollowLike.WinForm\obj\x86\Debug\AmosBatista.ExtractFollowLike.WinForm.frmStatusList.resources
 E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.ExtractFollowLike.WinForm\obj\x86\Debug\AmosBatista.ExtractFollowLike.WinForm.frmExtractRTFromUser.resources
+E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.ExtractFollowLike.WinForm\obj\x86\Debug\AmosBatista.ExtractFollowLike.WinForm.frmStatusSearch.resources
+E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.ExtractFollowLike.WinForm\obj\x86\Debug\AmosBatista.ExtractFollowLike.WinForm.frmProcessUserNetwork.resources

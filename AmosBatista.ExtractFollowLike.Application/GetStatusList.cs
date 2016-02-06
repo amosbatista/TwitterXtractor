@@ -10,7 +10,7 @@ namespace AmosBatista.ExtractFollowLike.Application
     {
         
 
-        public List<StatusInfo> GetList(string userName)
+        /*public List<StatusInfo> GetList(string userName)
         {
             var extrator = new TwitterRepstr_Posts(5);
             var user = new TwitterAPPUser();
@@ -28,6 +28,6 @@ namespace AmosBatista.ExtractFollowLike.Application
 
             var content = base.ExtractAllContent(extrator, user);
             return content;
-        }
+        }*/
     }
 }

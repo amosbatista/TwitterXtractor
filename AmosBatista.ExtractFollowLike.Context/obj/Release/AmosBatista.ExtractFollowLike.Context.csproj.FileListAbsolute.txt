@@ -1,0 +1,5 @@
+E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.ExtractFollowLike.Context\bin\Release\AmosBatista.ExtractFollowLike.Context.dll
+E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.ExtractFollowLike.Context\bin\Release\AmosBatista.ExtractFollowLike.Context.pdb
+E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.ExtractFollowLike.Context\obj\Release\ResolveAssemblyReference.cache
+E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.ExtractFollowLike.Context\obj\Release\AmosBatista.ExtractFollowLike.Context.dll
+E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\AmosBatista.ExtractFollowLike.Context\obj\Release\AmosBatista.ExtractFollowLike.Context.pdb

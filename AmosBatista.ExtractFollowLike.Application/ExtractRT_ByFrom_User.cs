@@ -24,8 +24,8 @@ namespace AmosBatista.ExtractFollowLike.Application
             var user = new TwitterAPPUser();
             user = mainUser;
 
-            var content = base.ExtractResponse(extrator, user);
-            return content;
+            //var content = null; // base.ExtractResponse(extrator, user);
+            return null;
         }
 
         // Main flow of this process

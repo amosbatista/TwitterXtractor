@@ -12,18 +12,18 @@ namespace AmosBatista.ExtractFollowLike.Application
         public string GetStringContent(string postId)
         {
             var extrator = new TwitterRpstr_Retwitts();
-           
-            var content = base.ExtractAllContent(extrator, Decimal.Parse(postId));
 
-            return content;
+            //var content = null;//base.ExtractAllContent(extrator, Decimal.Parse(postId));
+
+            return null;
         }
 
         public List<RTStatusInfo> GetContent(string postId)
         {
             var extrator = new TwitterRpstr_Retwitts();
-            var content = base.ExtractResponse(extrator, Decimal.Parse(postId));
+            //var content = null; // base.ExtractResponse(extrator, Decimal.Parse(postId));
 
-            return content;
+            return null;
         }
     }
 }

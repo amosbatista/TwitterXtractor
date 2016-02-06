@@ -31,12 +31,25 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Interface\IAPICallProperties.cs" />
+    <Compile Include="Interface\ITwitterExtractor.cs" />
     <Compile Include="Interface\ITwitterExtractorByPost.cs" />
+    <Compile Include="Interface\IExtractProperties.cs" />
+    <Compile Include="Interface\ITwitterExtractorBySearch.cs" />
     <Compile Include="Interface\ITwitterExtractorByUser.cs" />
+    <Compile Include="Interface\ITwitterExtractOptions.cs" />
+    <Compile Include="PropertiesClasses\APICallProperties.cs" />
+    <Compile Include="PropertiesClasses\ExtractorOptions.cs" />
+    <Compile Include="PropertiesClasses\NetWorkStatisticsProperties.cs" />
+    <Compile Include="PropertiesClasses\RepositoryOptions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResponseStructure\ErrorContent.cs" />
+    <Compile Include="ResponseStructure\ErrorList.cs" />
     <Compile Include="ResponseStructure\RetweetedStatus.cs" />
     <Compile Include="ResponseStructure\RTStatusInfo.cs" />
+    <Compile Include="ResponseStructure\SearchResult.cs" />
     <Compile Include="ResponseStructure\StatusInfo.cs" />
+    <Compile Include="ResponseStructure\TwitterUserList.cs" />
     <Compile Include="ResponseStructure\UserInfo.cs" />
     <Compile Include="ResponseStructure\UserList.cs" />
     <Compile Include="TwitterUser.cs" />

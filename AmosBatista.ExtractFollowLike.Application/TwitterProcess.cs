@@ -12,9 +12,9 @@ namespace AmosBatista.ExtractFollowLike.Application
     {
         protected TwitterAPPUser MyUser { get; set; }
 
-        protected UserList userList;
+        protected UserIdList userList;
 
-        public UserList GetUserList()
+        public UserIdList GetUserList()
         {
             return userList;
         }
@@ -26,11 +26,11 @@ namespace AmosBatista.ExtractFollowLike.Application
             public static string TwitterID = "72423411";
         }
 
-        protected UserList ExtractUsersFrom(ITwitterExtractorByUser extractor)
+        protected UserIdList ExtractUsersFrom(ITwitterExtractorByUser extractor)
         {
             // Reading the information from Twitter
-            var followerXtractor = new TwitterRepstr_Followers();
-            return JsonConvert.DeserializeObject<UserList>(extractor.GetResponse(MyUser));
+            var followerXtractor = new TwitterRepstr_FollowersID();
+            return JsonConvert.DeserializeObject<UserIdList>(extractor.GetResponse(MyUser));
         }
 
         protected UserInfo ExtractUserInfo(ITwitterExtractorByUser extractor, TwitterAPPUser user)

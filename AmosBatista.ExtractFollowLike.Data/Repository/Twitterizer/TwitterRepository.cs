@@ -6,7 +6,7 @@ namespace AmosBatista.ExtractFollowLike.Data.Repository.Twitterizer
     public abstract class TwitterRepository
     {
         // All keys of the app
-        private struct TwitterAppData
+        protected struct TwitterAppData
         {
             static public string app_consumer_key = "gnkAYQUwKweejm9zVggHxUSvc";
             static public string app_token = "72423411-N03863aYbYBhHBORZLz7SzLh7u0mO0PXwD6riY9Bi";

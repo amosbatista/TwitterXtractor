@@ -31,9 +31,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ContactNet\ContactWebApplication.cs" />
+    <Compile Include="ContactNet\FollowerIdList.cs" />
+    <Compile Include="ContactNet\FriendsIdList.cs" />
+    <Compile Include="ContactNet\LoadUser.cs" />
+    <Compile Include="ContactNet\UserLookUp.cs" />
+    <Compile Include="ContinuosProcess\StatusListProcessor.cs" />
     <Compile Include="ExtractRT_ByFrom_User.cs" />
     <Compile Include="GetStatusList.cs" />
     <Compile Include="GetStatusRetwiiters.cs" />
+    <Compile Include="NetworkExtractor\NetWorkApp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TwitterFollowersProcess.cs" />
     <Compile Include="TwitterFriendsProcess.cs" />
@@ -86,6 +93,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
