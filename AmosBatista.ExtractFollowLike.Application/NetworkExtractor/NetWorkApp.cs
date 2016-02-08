@@ -1,6 +1,6 @@
 ﻿using AmosBatista.ExtractFollowLike.Application.ContactNet;
 
-using AmosBatista.ExtractFollowLike.Data.Repository.Database;
+using AmosBatista.ExtractFollowLike.Data.Repository.MySQLDatabase;
 using AmosBatista.ExtractFollowLike.Data.Repository.Twitterizer;
 using System.Collections.Generic;
 using AmosBatista.ExtractFollowLike.Context;
@@ -19,17 +19,14 @@ namespace AmosBatista.ExtractFollowLike.Application.NetworkExtractor
             var userDB = new UserRepository();
             var followerDB = new UserRelationshipRepository();
 
-            //userDB.EraseAllData();
-            //followerDB.EraseAllData();
-
             // Main list
-            var userListToProcess = new TwitterUserList();
             var processedUserList = new TwitterUserList(); // Used in the interaction
 
             // Arrays of friends and followers
             var friendsReps = new FriendsIdList();
             var followersReps = new FollowerIdList();
             var userLookUp = new UserLookUp();
+            var relationshipReps = new GetRelationshipStatus();
 
             var followersList = new List<TwitterAPPUser>();
             var followersIdList = new UserIdList();
@@ -40,95 +37,151 @@ namespace AmosBatista.ExtractFollowLike.Application.NetworkExtractor
 
             var newFollowersUser = new TwitterAPPUser();
             var newFriendUser = new TwitterAPPUser();
+            var newUserToSave = new TwitterAPPUser();
 
-            // Setting the user for the first time
-            opt.twitterUser.screen_name = searchProp.twitterName;
+            // Lists of FR and FF from each user
+            var actualUserFriendIdList = new UserIdList();
+            var actualUserFollowerIdList = new UserIdList();
+            var idListToProcess = new UserIdList();
+            var userListToProcess = new List<TwitterAPPUser>();
 
-            // Loading me as the first user
-            var twitterUserRep = new LoadUser();
-            var firstUser = twitterUserRep.GetUser(opt);
+            var relationshipStatus = new RelationshipStatus_FinalResult();
 
-            // Remotion and top 10 users list
-            var usersToRemove = new List<TwitterAPPUser>(); 
-            var top10Users = new List<TwitterAPPUser>();
-
-            // Setting the first array
-            userListToProcess.users.Add(firstUser);
-            opt.twitterUser.screen_name = "";
-
-            // Main loop
-            for (int processorCount = 0; processorCount < Int16.Parse(searchProp.deepnessCount); processorCount++)
+            // Determine the kind of process
+            if (searchProp.generateNewStatistic == true)
             {
-                top10Users.Clear();
-                usersToRemove.Clear();
+                userDB.EraseAllData();
+                followerDB.EraseAllData();
 
-                foreach (TwitterAPPUser user in userListToProcess.users)
+                // Setting the user for the first time
+                opt.twitterUser.screen_name = searchProp.twitterName;
+
+                // Loading me as the first user
+                var twitterUserRep = new LoadUser();
+                var mainUser = twitterUserRep.GetUser(opt);
+
+                // Save the user
+                userDB.SaveNewUser(mainUser);
+                userDB.SetUserAsProcessed(mainUser); // To impeding the first user to be processed again
+
+                // Generation of FR (friends) and FF (followers) list
+                opt.twitterUser.id_str = mainUser.id_str;
+
+                // Getting the friends and followers list
+                followersIdList = followersReps.GetFollowers(opt);
+                friendsIdList = friendsReps.GetFriends(opt);
+
+                opt.userList = followersIdList;
+                followersList = userLookUp.GetUserCompleteList(opt);
+
+                opt.userList = friendsIdList;
+                friendsList = userLookUp.GetUserCompleteList(opt);
+
+
+                // Reading all followers list
+                foreach (TwitterAPPUser user in followersList)
                 {
-                    // Setting the user for the first time
-                    opt.twitterUser.id_str = user.id_str;
+                    // Save the current user
+                    userDB.SaveNewUser(user);
 
-                    // Verify if the user is the same of the first
-                    if (user.id_str == firstUser.id_str && userListToProcess.users.Count > 1)
-                        continue;
-
-                    // Getting the friends and followers list
-                    followersIdList = followersReps.GetFollowers(opt);
-                    opt.userList.ids = followersIdList.ids;
-                    followersList.AddRange(userLookUp.GetUserCompleteList(opt)); 
-
-                    friendsIdList = friendsReps.GetFriends(opt);
-                    opt.userList.ids = friendsIdList.ids;
-                    friendsList.AddRange(userLookUp.GetUserCompleteList(opt));
-
-                    if (searchProp.extractHalfMinorsUsers == true)
-                    {
-                        // Removing the half of users of each list who have minus friends
-                        usersToRemove.AddRange((from follower in followersList orderby follower.followers_count ascending select follower).Take(followersList.Count / 2));
-                        usersToRemove.AddRange((from friend in friendsList orderby friend.followers_count ascending select friend).Take(friendsList.Count / 2));
-                    
-                        foreach  (TwitterAPPUser userToRemove in usersToRemove){
-                            followersList.Remove(userToRemove);
-                            friendsList.Remove(userToRemove);
-                        }
-
-                    }
-
-                    // Saving both list to the database. Only save if the user has been saved
-                    foreach (TwitterAPPUser userToSave in followersList)
-                    {
-                        userDB.SaveNewUser(userToSave);
-                        followerDB.SaveUserFollower(userToSave, user);
-                    }
-
-                    foreach (TwitterAPPUser userToSave in friendsList)
-                    {
-                        userDB.SaveNewUser(userToSave);
-                        followerDB.SaveUserFollower(user, userToSave);
-                    }
-
-                    // After saved the users, remove who have more than 5000 users
-                    usersToRemove.Clear();
-                    usersToRemove.AddRange(from follower in followersList where follower.followers_count > 5000 || follower.friends_count > 5000 select follower);
-                    usersToRemove.AddRange(from friend in friendsList where friend.followers_count > 5000 || friend.friends_count > 5000 select friend);
-
-                    foreach (TwitterAPPUser userToRemove in usersToRemove)
-                    {
-                        followersList.Remove(userToRemove);
-                        friendsList.Remove(userToRemove);
-                    }
+                    // Save the relationship
+                    followerDB.SaveUserFollower(mainUser, user);
                 }
 
-                // After mounted the list, start the process of find the top 5 of each list
-                // In this process, we just consider the amount of followers of each user
-                top10Users.AddRange((from follower in followersList orderby follower.followers_count descending select follower).Take(2));
-                top10Users.AddRange((from follower in followersList orderby follower.friends_count descending select follower).Take(2));
-                top10Users.AddRange((from friend in friendsList orderby friend.followers_count descending select friend).Take(2));
-                top10Users.AddRange((from friend in friendsList orderby friend.friends_count descending select friend).Take(2));
+                // Reading all friends list
+                foreach (TwitterAPPUser user in friendsList)
+                {
+                    // Save the current user
+                    userDB.SaveNewUser(user);
 
-                // Finally, set the next list of users to process
-                userListToProcess.users.Clear();
-                userListToProcess.users.AddRange(top10Users);
+                    // Save the relationship
+                    followerDB.SaveUserFollower(user, mainUser);
+                }
+
+                // Combinning the 2 list
+                userListToProcess.AddRange(friendsList);
+                userListToProcess.AddRange(followersList);
             }
+            else
+            {
+                // Load the list of the users
+                userListToProcess = userDB.LoadUnprocessedUsers();
+            }
+
+            // Reading all this list, to get each contacts
+            foreach (TwitterAPPUser userSource in userListToProcess)
+            {
+
+                foreach (TwitterAPPUser userTarget in userListToProcess)
+                {
+                    opt.twitterUser = userSource;
+                    opt.twitterUser_Target = userTarget;
+
+                    relationshipStatus = relationshipReps.Get(opt);
+
+                    // Saving the user relationship, by the result response
+                    if (relationshipStatus.relationship.target.following == true)
+                        followerDB.SaveUserFollower(userSource, userTarget);
+                    if (relationshipStatus.relationship.target.followed_by == true)
+                        followerDB.SaveUserFollower(userTarget, userSource);
+                }
+
+                // After all, indicate the user was processed
+                userDB.SetUserAsProcessed(userSource);
+            }
+        }
+
+        private void ExtractFollowersAndFriendsFromUser(string userId, UserIdList contactList)
+        {
+            var opt = new RepositoryOptions();
+            var friendsReps = new FriendsIdList();
+            var followersReps = new FollowerIdList();
+
+            var mainUser = new TwitterAPPUser();
+            mainUser.id_str = userId;
+
+            var newUserToSave = new TwitterAPPUser();
+
+            var userDB = new UserRepository();
+            var followerDB = new UserRelationshipRepository();
+
+
+            // Get the friend list of this user
+            opt.twitterUser.id_str = mainUser.id_str;
+            var actualUserFriendIdList = friendsReps.GetFriends(opt);
+
+            // Select a list of these friends that are in the friends/followers list of the user
+            var idListToProcess = new UserIdList();
+            idListToProcess.ids.AddRange(from actualUserId in actualUserFriendIdList.ids where contactList.ids.Contains(actualUserId) select actualUserId);
+
+            // List all this users ids
+            foreach (decimal actualUserId in idListToProcess.ids)
+            {
+                // Save the relationship of this user
+                newUserToSave = new TwitterAPPUser();
+                newUserToSave.id_str = actualUserId.ToString();
+                followerDB.SaveUserFollower(newUserToSave, mainUser);
+            }
+
+            // Get the follower list of this user
+            idListToProcess.ids.Clear();
+            opt.twitterUser.id_str = mainUser.id_str;
+            var actualUserFollowerIdList = followersReps.GetFollowers(opt);
+
+            // Select a list of these followers that are in the friends/followers list of the user
+            idListToProcess.ids.AddRange(from actualUserId in actualUserFollowerIdList.ids where contactList.ids.Contains(actualUserId) select actualUserId);
+
+            // List all this users ids
+            foreach (decimal actualUserId in idListToProcess.ids)
+            {
+                // Save the relationship of this user
+                newUserToSave = new TwitterAPPUser();
+                newUserToSave.id_str = actualUserId.ToString();
+                followerDB.SaveUserFollower(mainUser, newUserToSave);
+            }
+
+            // After all, indicate the user was processed
+            userDB.SetUserAsProcessed(mainUser);
         }
     }
 }

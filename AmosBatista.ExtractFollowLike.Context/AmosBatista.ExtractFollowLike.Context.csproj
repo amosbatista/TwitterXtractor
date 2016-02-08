@@ -45,6 +45,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResponseStructure\ErrorContent.cs" />
     <Compile Include="ResponseStructure\ErrorList.cs" />
+    <Compile Include="ResponseStructure\RelationshipStatus.cs" />
+    <Compile Include="ResponseStructure\RelationshipStatus_FinalResult.cs" />
+    <Compile Include="ResponseStructure\RelationshipStatus_Structure.cs" />
+    <Compile Include="ResponseStructure\RelationshipStatus_Target.cs" />
     <Compile Include="ResponseStructure\RetweetedStatus.cs" />
     <Compile Include="ResponseStructure\RTStatusInfo.cs" />
     <Compile Include="ResponseStructure\SearchResult.cs" />

@@ -5,5 +5,8 @@
     <Setting Name="DataBaseConecctionString" Type="System.String" Scope="Application">
       <Value Profile="(Default)">Data Source=E:\Amos\Meus Projetos\Visual Studio\AmosBatista.ExtractFollowLike\CompactDataBase\TwitterExtract_followers.db.sdf;Password=1234;Persist Security Info=True</Value>
     </Setting>
+    <Setting Name="MySQLDBConn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">server=localhost;uid=xTractorUser;pwd=amos28amos;database=amos</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

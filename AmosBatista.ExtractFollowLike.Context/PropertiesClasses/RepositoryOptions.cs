@@ -20,8 +20,11 @@ namespace AmosBatista.ExtractFollowLike.Context.PropertiesClasses
 
         public UserIdList userList;
 
+        public TwitterAPPUser twitterUser_Target { get; set; }
+
         public RepositoryOptions()
         {
+            twitterUser_Target = new TwitterAPPUser();
             twitterUser = new TwitterAPPUser();
             apiCallProperties = new APICallProperties();
             userList = new UserIdList();

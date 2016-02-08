@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 using AmosBatista.ExtractFollowLike.Application.NetworkExtractor;
 using AmosBatista.ExtractFollowLike.Context.PropertiesClasses;
+using AmosBatista.ExtractFollowLike.Application.ContactNet;
 
 namespace AmosBatista.ExtractFollowLike.WinForm
 {
@@ -23,12 +24,15 @@ namespace AmosBatista.ExtractFollowLike.WinForm
         {
             var searchProps = new NetWorkStatisticsProperties();
             searchProps.twitterName = txtUserName.Text;
-            searchProps.deepnessCount = txtDeepNess.Text;
-            searchProps.extractHalfMinorsUsers = chkExtractHalfList.Checked;
+            searchProps.generateNewStatistic = chkStartNewStatistic.Checked;
 
             var netWorkApp = new NetWorkApp();
             netWorkApp.GenerateNetWorkStatistics(searchProps);
             MessageBox.Show("End of processment");
+            
+            /*var netTeste = new Network_teste();
+            netTeste.teste();*/
+
         }
     }
 }

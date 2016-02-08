@@ -33,5 +33,14 @@ namespace AmosBatista.ExtractFollowLike.Data.Properties {
                 return ((string)(this["DataBaseConecctionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("server=localhost;uid=xTractorUser;pwd=amos28amos;database=amos")]
+        public string MySQLDBConn {
+            get {
+                return ((string)(this["MySQLDBConn"]));
+            }
+        }
     }
 }

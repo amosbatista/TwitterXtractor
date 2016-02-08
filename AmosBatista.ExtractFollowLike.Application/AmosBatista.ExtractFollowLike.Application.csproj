@@ -34,7 +34,9 @@
     <Compile Include="ContactNet\ContactWebApplication.cs" />
     <Compile Include="ContactNet\FollowerIdList.cs" />
     <Compile Include="ContactNet\FriendsIdList.cs" />
+    <Compile Include="ContactNet\GetRelationshipStatus.cs" />
     <Compile Include="ContactNet\LoadUser.cs" />
+    <Compile Include="ContactNet\Network_teste.cs" />
     <Compile Include="ContactNet\UserLookUp.cs" />
     <Compile Include="ContinuosProcess\StatusListProcessor.cs" />
     <Compile Include="ExtractRT_ByFrom_User.cs" />
